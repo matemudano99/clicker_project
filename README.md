@@ -2,7 +2,7 @@
 
 A simple "idle clicker" game built with Python, based on an MVC (Model-View-Controller) architecture. The goal is to mine asteroids, collect crystals, and complete the final mission.
 
-![Space Miner Screenshot](image_1fb323.png)
+![Space Miner Screenshot](image.png)
 
 ## Features
 
