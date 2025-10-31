@@ -18,7 +18,7 @@ A simple "idle clicker" game built with Python, based on an MVC (Model-View-Cont
 ## Technologies Used
 
 * **Python 3**
-* **[Añade aquí tu librería gráfica]**: (p.ej., `Tkinter` para la GUI)
+* **Tkinter
 * **MVC Architecture**
 
 ## Project Structure
